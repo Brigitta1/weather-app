@@ -1,0 +1,52 @@
+html, body {
+    font-family: ;
+    font-size: 1.4rem;
+    /*background: #008000;*/
+    height:;
+    padding-bottom: 40px;
+    color: ghostwhite;
+}
+
+#container1 {
+    min-height:;
+    position: relative;
+    margin: auto;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: 40%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5%;
+    background: #006699;
+    opacity: 0.5;
+    border-radius: 5px;
+
+}
+
+
+h1 {
+    font-size: 1.2rem;
+    width: 240px;
+    padding-top: 2%;
+    margin: auto;
+    
+}
+
+.footer{
+    font-size: .7rem;
+    position: absolute;
+    bottom: 0px;
+    width: 300px;
+    height: 40px;
+    left: 50%;
+    right: 25%;
+    margin-left: -150px;
+
+}
